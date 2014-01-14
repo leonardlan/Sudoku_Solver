@@ -1,6 +1,6 @@
 The Sudoku Solver is a console application built in C# for solving 3x3 Sudokus. It uses brute force by iterating all empty cells, while populating them until a solution is achieved.
 
-To use the solver, run the application and enter the Sudoku row by row starting from the top, replacing empty cells with 0.
+To use the solver, run the Sudoku_Solver.exe file and enter the Sudoku row by row starting from the top, replacing empty cells with 0.
 
 For example, if you were to enter the following Sudoku,
 
@@ -41,3 +41,5 @@ The solver will return with the solution:
 158|273|946
 429|816|573
 376|459|812
+
+Have fun!
